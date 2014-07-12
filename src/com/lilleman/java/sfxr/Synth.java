@@ -90,7 +90,7 @@ public class Synth extends Thread {
 	private List<Double> noiseBuffer;
 	
 	public Synth() {
-		ad = Gdx.audio.newAudioDevice(44100, true);
+		ad = Gdx.audio.newAudioDevice(44100, false);
 		this.start();
 	}
 	

@@ -16,14 +16,14 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Files.FileType;
 import com.badlogic.gdx.graphics.GL10;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.stoff.java.sfxr.ui.Button;
-import com.stoff.java.sfxr.ui.Font;
-import com.stoff.java.sfxr.ui.Label;
-import com.stoff.java.sfxr.ui.Mouse;
-import com.stoff.java.sfxr.ui.Slider;
-import com.stoff.java.sfxr.ui.Button.ClickListener;
-import com.stoff.java.sfxr.ui.Slider.ValueChangedListener;
-import com.stoff.java.sfxr.ui.Utils;
+import com.lilleman.java.sfxr.ui.Button;
+import com.lilleman.java.sfxr.ui.Font;
+import com.lilleman.java.sfxr.ui.Label;
+import com.lilleman.java.sfxr.ui.Mouse;
+import com.lilleman.java.sfxr.ui.Slider;
+import com.lilleman.java.sfxr.ui.Button.ClickListener;
+import com.lilleman.java.sfxr.ui.Slider.ValueChangedListener;
+import com.lilleman.java.sfxr.ui.Utils;
 
 public class SfxrApp implements ApplicationListener {
 	/*
